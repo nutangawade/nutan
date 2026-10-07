@@ -1,0 +1,5 @@
+1. Python is a high-level programming language.
+3. Python is easy to read and write.
+5. Python supports both object-oriented and procedural programming.
+7. Python is widely used in data science and machine learning.
+9. Python programs can run on different operating systems.
